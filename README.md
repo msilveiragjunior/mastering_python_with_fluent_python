@@ -2,11 +2,11 @@
 
 ![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
 ![Status](https://img.shields.io/badge/status-learning_in_progress-yellow)
-![Source](https://img.shields.io/badge/Source-Fluent%20Python-orange)
+![Source](https://img.shields.io/badge/Source-Python%20Distilled-orange)
 ![License](https://img.shields.io/badge/license-educational-lightgrey)
 
 > **A structured journey through Python fundamentals and intermediate concepts**  
-> Inspired by *Fluent Python: Clear, Concise, and Effective Programming* by Luciano Ramalho (O'Reilly).
+> Inspired by *Python Distilled* by David M. Beazley (Pearson).
 
 ---
 
@@ -16,7 +16,7 @@ Every year, I revisit the **foundations of Python** through hands-on exercises a
 This repository exists for that purpose — to rebuild fluency from the **basics to the advanced level**. The last time I've covered Eric Matthes book **Python Crash Course**, with a repo that was not well organized. This time I'll try something different.
 
 The material in this repo follows the book  
-***Fluent Python: Clear, Concise, and Effective Programming*** by **Luciano Ramalho**,  serving as a **concise synthesis** of its key ideas and examples.
+***Python Distilled*** by **David M. Beazley**,  serving as a **concise synthesis** of its key ideas and examples.
 
 > 🧠 The goal: to internalize Python’s core logic by re-implementing and summarizing its essential patterns and principles.
 
@@ -39,7 +39,7 @@ written to reinforce understanding through **active practice**.
 
 ## 🧩 Learning Approach
 
-1. Recreate and adapt examples from ***Fluent Python*** in my own words and style.  
+1. Recreate and adapt examples from ***Python Distilled*** in my own words and style.  
 2. Focus on **clarity** and **conciseness**, explaining each concept practically.  
 3. Build a **solid foundation** before moving to data analysis and engineering topics.  
 4. Keep the repository **modular**, with each script self-contained and well-documented.  

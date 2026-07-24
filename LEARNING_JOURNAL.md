@@ -153,17 +153,17 @@ Write a short paragraph describing what you learned today.
 
 Topics to study next.
 
-- [ ]
-- [ ]
-- [ ]
+- [ ] Tuples
+- [ ] Dictionaries
+- [ ] Sets
 
 ---
 
 ---
 
-## Example Entry
+## Entry_01
 
-## 📅 2026-07-23
+## 📅 2026-07-24
 
 **Duration:** 2 hours
 
@@ -171,9 +171,9 @@ Topics to study next.
 
 **Topics:**
 
-- Variables
-- References
-- Lists
+- [ ] Variables & Types
+- [ ] Strings
+- [ ] Lists
 
 ### 💡 Key Concepts for the entry
 
@@ -198,9 +198,3 @@ I forgot that slicing creates a shallow copy.
 ### 📈 Confidence
 
 ⭐⭐⭐⭐☆
-
-### 🚀 Next Session Entry
-
-- Dictionaries
-- Sets
-- Hashing
